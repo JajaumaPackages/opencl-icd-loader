@@ -8,6 +8,8 @@ URL:            https://forge.imag.fr/projects/ocl-icd/
 Source0:        https://forge.imag.fr/frs/download.php/716/ocl-icd-%{version}.tar.gz
 
 BuildRequires:  opencl-headers
+BuildRequires:  asciidoc
+BuildRequires:  xmlto
 BuildRequires:  ruby
 
 
